@@ -16,4 +16,6 @@
 
 [TECHNOLOGY MAP VIEWER FOR PART I](./part1tmv.pdf)
 
+SIMULATION PART I
+<img src="sim1.png">
 
