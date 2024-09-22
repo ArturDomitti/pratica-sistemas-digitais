@@ -1,0 +1,27 @@
+# SSC0108 - Prática sistemas digitais
+
+[Projeto 1: Latches, Flip-flops, and Registers.](src/lab3.pdf)
+
+### Alunos
+
+|        Nome                         |    NUSP   |       
+|:-----------------------------------:|:---------:|  
+|   Artur Domitti Camargo          |  15441661 |   
+|   Lucas Alves da Silva       	      |  11819553 |   
+|   Lucas Mello Ciosaki	      |  14591305  | 
+
+# Softwares utilizados
+
+Versão do Quartus: Quartus Prime 21.1 <br>
+Versão ModelSim: ModelSim - Intel FPGA Starter Edition 10.5b <br>
+
+## Part I
+
+
+Codigo VHDL:
+
+
+
+```
+
+[Link para os arquivos usados no Quartus](C%C3%B3digos-Quartus/part2,3,4.zip)
