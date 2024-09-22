@@ -21,7 +21,7 @@ SIMULATION PART I
 
 VHDL CODE
 
-'''
+```
 LIBRARY ieee;
 USE ieee.std_logic_1164.all;
 
@@ -41,7 +41,7 @@ BEGIN
   Qb <= NOT (S_g OR Qa);
   Q <= Qa;
 END Structural;
-'''
+```
 
 ### PART II
 
@@ -55,6 +55,7 @@ SIMULATION PART II
 
 VHDL CODE 
 
+```
 LIBRARY ieee;
 USE ieee.std_logic_1164.all;
 
@@ -133,7 +134,7 @@ BEGIN
 	 
 
 END Structural;
-
+```
 ### PART IV
 
 [RTL VIEWER FOR PART II](./part4.pdf)
@@ -145,6 +146,7 @@ SIMULATION PART IV
 <img src="sim4.png">
 
 VHDL CODE
+```
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 
@@ -195,4 +197,5 @@ begin
     Q_c <= Qc;
 
 end Behavioral;
+```
 
