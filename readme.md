@@ -14,4 +14,4 @@
 
 RTL VIEWER FOR PART I
 
-<img src="part1.pdf"\>
+<img src="part1.pdf">
