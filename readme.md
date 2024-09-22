@@ -79,19 +79,19 @@ BEGIN
 	
 	Q <= Qa;
 END Structural;
-
+```
 ### PART III
 
-[RTL VIEWER FOR PART II](./part3.pdf)
+[RTL VIEWER FOR PART III](./part3.pdf)
 
-[TECHNOLOGY MAP VIEWER FOR PART II](./part3tmv.pdf)
+[TECHNOLOGY MAP VIEWER FOR PART III](./part3tmv.pdf)
 
 SIMULATION PART III
 
 <img src="sim3.png">
 
 VHDL CODE
-
+```
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
 
@@ -137,9 +137,9 @@ END Structural;
 ```
 ### PART IV
 
-[RTL VIEWER FOR PART II](./part4.pdf)
+[RTL VIEWER FOR PART IV](./part4.pdf)
 
-[TECHNOLOGY MAP VIEWER FOR PART II](./part4tmv.pdf)
+[TECHNOLOGY MAP VIEWER FOR PART IV](./part4tmv.pdf)
 
 SIMULATION PART IV
 
