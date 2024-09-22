@@ -21,7 +21,8 @@ SIMULATION PART I
 
 VHDL CODE
 
-'''LIBRARY ieee;
+'''
+LIBRARY ieee;
 USE ieee.std_logic_1164.all;
 
 ENTITY part1 IS
@@ -39,7 +40,8 @@ BEGIN
   Qa <= NOT (R_g OR Qb);
   Qb <= NOT (S_g OR Qa);
   Q <= Qa;
-END Structural;'''
+END Structural;
+'''
 
 ### PART II
 
