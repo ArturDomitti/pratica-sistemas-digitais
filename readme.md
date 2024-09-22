@@ -12,6 +12,8 @@
 
 ### Part I
 
-RTL VIEWER FOR PART I
+[RTL VIEWER FOR PART I](./part1.pdf)
 
-<img src="part1.pdf">
+[TECHNOLOGY MAP VIEWER FOR PART I](./part1tmv.pdf)
+
+
