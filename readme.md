@@ -1,6 +1,6 @@
 # SSC0108 - Prática Sistemas Digitais
 
-[Projeto 1: Latches, Flip-flops, and Registers.](./lab3.pdf)
+[Aula 2 & 3: Latches, Flip-flops, and Registers.](./lab3.pdf)
 
 ### ALUNOS
 
